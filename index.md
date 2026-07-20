@@ -9,13 +9,11 @@ title: Frosty Wizzie - Aki
 
 ## My Setup
 
-- [awesome-dots](https://github.com/Getbricked/awesome-dots/)
+### [awesome-dots](https://github.com/Getbricked/awesome-dots/)
 
-### Setup Preview (coming soon)
+![awesome](https://getbricked.github.io/awesome.png)
 
-![Setup preview placeholder](https://via.placeholder.com/1200x675?text=Setup+Preview+Coming+Soon)
-
-## Projects
+## Discord Themes
 
 ### [ClearVision-v7](https://github.com/ClearVision/ClearVision-v7)
 
