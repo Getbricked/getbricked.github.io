@@ -16,4 +16,4 @@
 
 ### [Hyprcord](https://github.com/Getbricked/Hyprcord)
 
-![Hyprcord preview](https://camo.githubusercontent.com/3b7c280d634aabcb7d5e56b7fe44158c043605c59f15c4ea9fad4e94eece6f38/68747470733a2f2f676574627269636b65642e6769746875622e696f2f48797072636f72642f53637265656e73686f74732f68797072636f72642e706e67)
+![Hyprcord preview](https://getbricked.github.io/Hyprcord/Screenshots/special.png)
