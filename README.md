@@ -1,6 +1,6 @@
 # Frosty Wizzie - Aki
 
-![Frosty Wizzie - Aki](https://camo.githubusercontent.com/e25e26ce6644c68e063aa1d36d494c9e8a90b2d3bec52e428e93565b2b2c4c23/68747470733a2f2f676574627269636b65642e6769746875622e696f2f48797072636f72642f53637265656e73686f74732f57697a7a69652d6e69784f532e706e67)
+![Frosty Wizzie - Aki](https://getbricked.github.io/Hyprcord/Screenshots/Wizzie-nixOS.png)
 
 ## My Setup
 
