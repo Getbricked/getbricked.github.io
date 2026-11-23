@@ -1,6 +1,6 @@
 # Frosty Wizzie - Aki
 
-![Frosty Wizzie - Aki](https://getbricked.github.io/Hyprcord/Screenshots/Wizzie-nixOS.png)
+![Frosty Wizzie - Aki](https://raw.githubusercontent.com/Getbricked/Hyprcord/refs/heads/master/Screenshots/Wizzie-nixOS.png)
 
 ## My Setup
 
@@ -16,4 +16,4 @@
 
 ### [Hyprcord](https://github.com/Getbricked/Hyprcord)
 
-![Hyprcord preview](https://getbricked.github.io/Hyprcord/Screenshots/special.png)
+![Hyprcord preview](https://raw.githubusercontent.com/Getbricked/Hyprcord/refs/heads/master/Screenshots/special.png)
